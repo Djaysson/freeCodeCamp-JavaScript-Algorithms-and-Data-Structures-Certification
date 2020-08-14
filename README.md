@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="freeCodeCamp.png" alt="freeCodeCamp" >
+  <img src="https://github.com/Djaysson/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification/blob/master/freecodecamp.png" alt="freeCodeCamp" >
 <br>
 <br>
 Certificação JavaScript da plataforma freeCodeCamp
