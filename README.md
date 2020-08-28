@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="freeCodeCamp.png" alt="freeCodeCamp" >
+  <img src="https://github.com/Djaysson/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification/blob/master/freecodecamp.png" alt="freeCodeCamp" >
 <br>
 <br>
 Certificação JavaScript da plataforma freeCodeCamp
@@ -20,8 +20,9 @@ Certificação JavaScript da plataforma freeCodeCamp
 
 1- [Basic JavaScript](01-basic-javascript)
 
-
 2- [ES6](02-es6)
+
+3- [Regular Expressions](03-regular-expressions)
 
 
 
