@@ -24,6 +24,8 @@ Certificação JavaScript da plataforma freeCodeCamp
 
 3- [Regular Expressions](03-regular-expressions)
 
+4- [Debugging](04-debugging)
+
 
 
 
