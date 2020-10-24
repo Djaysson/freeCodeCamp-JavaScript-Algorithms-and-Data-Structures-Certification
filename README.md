@@ -26,7 +26,7 @@ Certificação JavaScript da plataforma freeCodeCamp
 
 4- [Debugging](04-debugging)
 
-
+5- [Basic Data Structures](05-basic-data-structures)
 
 
 
