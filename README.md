@@ -28,5 +28,7 @@ Certificação JavaScript da plataforma freeCodeCamp
 
 5- [Basic Data Structures](05-basic-data-structures)
 
+6-[Basic Algorithm Scripting](06-basic-algorithm-scripting)
+
 
 
