@@ -30,5 +30,7 @@ Certificação JavaScript da plataforma freeCodeCamp
 
 6-[Basic Algorithm Scripting](06-basic-algorithm-scripting)
 
+7-[Object Oriented Programing](07-object-oriented-programing)
+
 
 
