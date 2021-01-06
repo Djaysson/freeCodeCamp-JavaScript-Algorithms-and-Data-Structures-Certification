@@ -32,5 +32,7 @@ Certificação JavaScript da plataforma freeCodeCamp
 
 7-[Object Oriented Programing](07-object-oriented-programing)
 
+8- [Functional Programming](08-functional-programming)
+
 
 
