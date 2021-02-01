@@ -34,5 +34,7 @@ Certificação JavaScript da plataforma freeCodeCamp
 
 8- [Functional Programming](08-functional-programming)
 
+9- [Intermediate Algorithm Scripting](09-intermediate-algorithm-scripting)
+
 
 
