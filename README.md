@@ -36,5 +36,5 @@ Certificação JavaScript da plataforma freeCodeCamp
 
 9- [Intermediate Algorithm Scripting](09-intermediate-algorithm-scripting)
 
-
+10-- [JavaScript Algorithms and Data Structures Projects](10-javaScript-algorithms-and-data-structures-projects)
 
